@@ -30,3 +30,6 @@
 		a. 사칙연산
     b. 행렬 곱
 
+손글씨 자료
+ 	1. mnist_test
+	2. mnist_train
